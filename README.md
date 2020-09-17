@@ -6,7 +6,5 @@
 
 [Assignment 3](fa2020_assignment3.html)
 
-<<<<<<< HEAD
 [Assignment 4] (fa2020_assignment4.html)
-=======
->>>>>>> 9b99d0f23f81d04058ab529e20b85f7abb37ccd0
+
