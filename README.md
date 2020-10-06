@@ -16,4 +16,6 @@
 
 [Assignment 7 Photo](titanic.png)
 
+[Assignemnt 8](fa2020_assignment8--1-.html)
+
 
