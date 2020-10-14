@@ -19,3 +19,5 @@
 [Assignment 8](fa2020_assignment8--1-.html)
 
 [Assignment 9](fa2020_assignment9.html)
+
+[Assignment 10](fa2020_assignment10--1-.html)
