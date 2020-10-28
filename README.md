@@ -25,3 +25,5 @@
 [Assignment 11](fa2020_assignment11.html)
 
 [Assignment 12](fa2020_assignment12.html)
+
+[Midterm](midterm.html)
