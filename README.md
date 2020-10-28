@@ -26,4 +26,6 @@
 
 [Assignment 12](fa2020_assignment12.html)
 
+[Midterm Code](fa2020_midterm-final-.html)
+
 [Midterm](midterm.html)
